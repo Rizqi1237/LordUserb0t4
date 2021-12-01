@@ -1821,7 +1821,7 @@ Alasan : ${reason}`, [sender], true)
 										sendButLocation(from, sewabotkak(), `Sewa bot om?`,  thumbnail, gakloo,{})
 										break
 						case 'donasi':
-									reply('Isi sendiri')
+									reply('Donate PULSA : 089604123422 Donate Kuota :083869891410')
 									break
 						case 'join':case 'joingc':
 									if (!q) return reply('Linknya?')
